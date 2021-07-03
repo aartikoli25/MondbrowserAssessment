@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MBAssignment</string>
+
+    <string name="my_contacts">My Contacts</string>
+    <string name="favourite">Favourite</string>
+    <string name="deleted">Deleted</string>
+
+    <string name="hello_mindbrowser">Hello Mindbrowser</string>
+
+    <string name="data_not_available">Data Not Available</string>
+
+    <string name="call_contact">Call Contact</string>
+    <string name="send_SMS">Send SMS</string>
+</resources>
